@@ -8,9 +8,9 @@ import (
 	"net"
 	"testing"
 
-	"github.com/peersafe/gm-crypto/tls"
-	"github.com/peersafe/gm-crypto/tls/credentials/echo"
-	"github.com/peersafe/gm-crypto/x509"
+	"github.com/zhj0811/gm-crypto/tls"
+	"github.com/zhj0811/gm-crypto/tls/credentials/echo"
+	"github.com/zhj0811/gm-crypto/x509"
 	"google.golang.org/grpc"
 )
 

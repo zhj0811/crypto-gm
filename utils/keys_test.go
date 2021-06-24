@@ -2,7 +2,7 @@ package utils
 
 import (
 	"crypto/rand"
-	"github.com/peersafe/gm-crypto/sm2"
+	"github.com/zhj0811/gm-crypto/sm2"
 	"testing"
 )
 

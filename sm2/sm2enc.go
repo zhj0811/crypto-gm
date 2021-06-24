@@ -13,7 +13,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/peersafe/gm-crypto/sm3"
+	"github.com/zhj0811/gm-crypto/sm3"
 )
 
 var EncryptionErr = errors.New("sm2: encryption error")

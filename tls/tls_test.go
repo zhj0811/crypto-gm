@@ -2,7 +2,7 @@ package tls
 
 import (
 	"bufio"
-	"github.com/peersafe/gm-crypto/x509"
+	"github.com/zhj0811/gm-crypto/x509"
 	"io/ioutil"
 	"log"
 	"net"

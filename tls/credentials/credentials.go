@@ -40,8 +40,8 @@ package credentials
 import (
 	"errors"
 	"fmt"
-	"github.com/peersafe/gm-crypto/x509"
-	"github.com/peersafe/gm-crypto/tls"
+	"github.com/zhj0811/gm-crypto/x509"
+	"github.com/zhj0811/gm-crypto/tls"
 	"io/ioutil"
 	"net"
 	"strings"

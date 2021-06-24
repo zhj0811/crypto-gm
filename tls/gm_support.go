@@ -9,9 +9,9 @@ import (
 	"crypto/cipher"
 	"crypto/hmac"
 	"crypto/tls"
-	"github.com/peersafe/gm-crypto/sm3"
-	"github.com/peersafe/gm-crypto/sm4"
-	"github.com/peersafe/gm-crypto/x509"
+	"github.com/zhj0811/gm-crypto/sm3"
+	"github.com/zhj0811/gm-crypto/sm4"
+	"github.com/zhj0811/gm-crypto/x509"
 )
 
 const VersionGMSSL = 0x0101 // GM/T 0024-2014

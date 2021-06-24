@@ -19,8 +19,8 @@ import (
 
 	"golang.org/x/crypto/curve25519"
 
-	"github.com/peersafe/gm-crypto/sm2"
-	"github.com/peersafe/gm-crypto/x509"
+	"github.com/zhj0811/gm-crypto/sm2"
+	"github.com/zhj0811/gm-crypto/x509"
 )
 
 var errClientKeyExchange = errors.New("tls: invalid ClientKeyExchange message")

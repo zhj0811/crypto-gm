@@ -14,7 +14,7 @@ import (
 	"io"
 	"sync/atomic"
 
-	"github.com/peersafe/gm-crypto/x509"
+	"github.com/zhj0811/gm-crypto/x509"
 )
 
 // serverHandshakeState contains details of a server handshake in progress.

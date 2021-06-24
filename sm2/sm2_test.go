@@ -9,9 +9,10 @@ import (
 	"crypto/elliptic"
 	"crypto/rand"
 	"encoding/hex"
-	"github.com/peersafe/gm-crypto/sm3"
 	"math/big"
 	"testing"
+
+	"github.com/zhj0811/gm-crypto/sm3"
 )
 
 func TestKeyGen(t *testing.T) {
